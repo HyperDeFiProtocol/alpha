@@ -65,6 +65,9 @@ object-assign
 /*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
 
+/*! clipboard-copy. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+
 /*!
  * The buffer module from node.js, for the browser.
  *
@@ -112,6 +115,3 @@ PERFORMANCE OF THIS SOFTWARE.
  * @copyright Chen, Yi-Cyuan 2015-2018
  * @license MIT
  */
-
-
-/*! clipboard-copy. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
