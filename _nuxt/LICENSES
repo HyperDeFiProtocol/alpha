@@ -3,40 +3,6 @@
 //! moment.js locale configuration
 
 
-/*
-object-assign
-(c) Sindre Sorhus
-@license MIT
-*/
-
-/*!
- * The buffer module from node.js, for the browser.
- *
- * @author   Feross Aboukhadijeh <http://feross.org>
- * @license  MIT
- */
-
-/*!
- * v2.1.4-104-gc868b3a
- * 
- */
-
-/*! https://mths.be/punycode v1.4.1 by @mathias */
-
-/*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
-
-
-/*!
- * cookie
- * Copyright(c) 2012-2014 Roman Shtylman
- * Copyright(c) 2015 Douglas Christopher Wilson
- * MIT Licensed
- */
-
-
-/*! clipboard-copy. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
-
-
 /*! *****************************************************************************
 Copyright (c) Microsoft Corporation.
 Permission to use, copy, modify, and/or distribute this software for any
@@ -69,6 +35,32 @@ PERFORMANCE OF THIS SOFTWARE.
  * @copyright Chen, Yi-Cyuan 2015-2018
  * @license MIT
  */
+
+
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <http://feross.org>
+ * @license  MIT
+ */
+
+/*!
+ * v2.1.4-104-gc868b3a
+ * 
+ */
+
+/*! https://mths.be/punycode v1.4.1 by @mathias */
+
+/*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+
+/*! clipboard-copy. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
 
 /*!
@@ -131,3 +123,11 @@ PERFORMANCE OF THIS SOFTWARE.
  */
 
 /*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+
+/*!
+ * cookie
+ * Copyright(c) 2012-2014 Roman Shtylman
+ * Copyright(c) 2015 Douglas Christopher Wilson
+ * MIT Licensed
+ */
